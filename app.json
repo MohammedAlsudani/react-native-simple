@@ -1,13 +1,18 @@
 {
   "expo": {
-    "scheme": "acme",
-    "web": {
-      "bundler": "metro"
+    "name": "React Native Simple",
+    "slug": "reactNativeSimple",
+    "platforms": [ "ios", "android" ],
+    "version": "1.0.0",
+    "android": {
+      "package": "com.react.simple"
     },
-    "plugins": [
-      "expo-router"
-    ],
-    "name": "react-native-simple",
-    "slug": "react-native-simple"
+    "ios": {
+      "bundleIdentifier": "com.react.simple",
+      "config": {
+        "usesNonExemptEncryption": false
+      }
+    },
+    "scheme": "simple"
   }
 }
