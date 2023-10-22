@@ -24,13 +24,13 @@ Before you begin, ensure you have met the following requirements:
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/yourusername/your-react-native-app.git
+   git clone https://github.com/MohammedAlsudani/react-native-simple.git
    ```
 
 2. Navigate to the project directory:
 
    ```shell
-   cd your-react-native-app
+   cd react-native-simple
    ```
 
 3. Install dependencies:
