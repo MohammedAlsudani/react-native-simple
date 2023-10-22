@@ -3,11 +3,7 @@ import axios from 'axios';
 
 // Define your Axios instance with default headers
 const api = axios.create({
-    baseURL: 'https://jsearch.p.rapidapi.com', // Replace with your specific API URL
-    headers: {
-        'X-RapidAPI-Key': rapidApiKey,
-        'X-RapidAPI-Host': 'jsearch.p.rapidapi.com',
-    },
+    baseURL: 'https://api.example.com' // Replace with your specific API URL
 });
 
 // Define a request function
