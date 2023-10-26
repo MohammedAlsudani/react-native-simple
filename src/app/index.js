@@ -1,7 +1,7 @@
 import React from 'react';
 import AppNavigator from './navigation/AppNavigator';
 
-// This is the entry point of your React Native application.
+// This is the entry point of the application.
 // The 'App' component is the starting point of your app.
 // It imports the 'AppNavigator' from the 'navigation' directory.
 
